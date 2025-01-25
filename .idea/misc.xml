@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="aee5681a-8b96-4953-9392-a69a7385a49e" />
+  <component name="Black">
+    <option name="sdkName" value="Python 3.13 (PythonProject)" />
   </component>
 </project>
