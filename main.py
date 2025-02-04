@@ -3,6 +3,8 @@ from aiogram import Bot, Dispatcher
 from app.handlers import router
 from app.database.models import async_main
 
+from app.DataBase.models import async_main
+
 bot = Bot(token='7586884677:AAFhmeSRHaU3SvG4fjFFNbSccBN7GwVidkI')
 dp = Dispatcher()
 
